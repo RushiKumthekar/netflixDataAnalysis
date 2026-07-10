@@ -50,3 +50,11 @@ GitHub: github.com/RushiKumthekar
 * **Python**: Used for writing the analysis logic.
 * **Pandas & NumPy**: Used for structuring, cleaning, and filtering the tabular data.
 * **Matplotlib & Seaborn**: Used for generating visual representations and charts of the trends.
+
+---
+
+## 👨‍💻 About the Author
+
+**Hrushikesh Nitin Kumthekar** 🎓 **MSc in Data Analytics** | National College of Ireland (Dublin, Ireland)
+
+💻 **Computer Engineering Graduate** I design structured analytics pipelines and turn unstructured, messy datasets into clear, business-driven database solutions. This repository serves as a hands-on demonstration of my skills in PostgreSQL database schema configuration, target data manipulation, pipeline sanitization techniques, and downstream business intelligence metrics extraction.
