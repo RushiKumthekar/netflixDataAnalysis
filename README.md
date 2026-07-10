@@ -35,15 +35,6 @@ The analysis is performed on a dataset containing **8,807 unique titles** with *
 * **Audience Distribution**: The catalog is heavily geared toward mature audiences, with `TV-MA` emerging as the most frequent maturity rating in the dataset (accounting for over 3,200 titles).
 * **Targeted Filtering**: The analysis demonstrates the ability to drill down into highly localized segments, successfully isolating specific subsets such as Canadian-produced movies tailored for a TV-14 audience.
 
-👨‍💻 About the Author
-Hrushikesh Nitin Kumthekar 🎓 MSc in Data Analytics | National College of Ireland (Dublin, Ireland)
-
-💻 Computer Engineering Graduate I design structured analytics pipelines and turn unstructured, messy datasets into clear, business-driven database solutions. This repository serves as a hands-on demonstration of my skills in PostgreSQL database schema configuration, target data manipulation, pipeline sanitization techniques, and downstream business intelligence metrics extraction.
-
-🚀 Connect With Me
-LinkedIn: linkedin.com/in/rnk89
-GitHub: github.com/RushiKumthekar
-
 ---
 
 ## 🛠️ Tools Used
@@ -55,12 +46,10 @@ GitHub: github.com/RushiKumthekar
 
 ## 👨‍💻 About the Author
 
-**Hrushikesh Nitin Kumthekar** 🎓 **MSc in Data Analytics** | National College of Ireland (Dublin, Ireland)
-
-💻 **Computer Engineering Graduate** I design structured analytics pipelines and turn unstructured, messy datasets into clear, business-driven database solutions. This repository serves as a hands-on demonstration of my skills in PostgreSQL database schema configuration, target data manipulation, pipeline sanitization techniques, and downstream business intelligence metrics extraction.
+**Hrushikesh Nitin Kumthekar** 🎓 **MSc in Data Analytics** | National College of Ireland (Dublin, Ireland)  
+💻 **Computer Engineering Graduate** I design structured analytics pipelines, conduct exploratory data analysis, and transform messy datasets into clear, structured insights. This repository serves as a hands-on demonstration of my skills in Python-based data manipulation, cleaning, and extracting content metrics to uncover strategic business patterns.
 
 ### 🚀 Connect With Me
 
 * **LinkedIn:** [linkedin.com/in/rnk89](https://www.linkedin.com/in/rnk89/)
 * **GitHub:** [github.com/RushiKumthekar](https://github.com/RushiKumthekar)
-
