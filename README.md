@@ -58,3 +58,9 @@ GitHub: github.com/RushiKumthekar
 **Hrushikesh Nitin Kumthekar** 🎓 **MSc in Data Analytics** | National College of Ireland (Dublin, Ireland)
 
 💻 **Computer Engineering Graduate** I design structured analytics pipelines and turn unstructured, messy datasets into clear, business-driven database solutions. This repository serves as a hands-on demonstration of my skills in PostgreSQL database schema configuration, target data manipulation, pipeline sanitization techniques, and downstream business intelligence metrics extraction.
+
+### 🚀 Connect With Me
+
+* **LinkedIn:** [linkedin.com/in/rnk89](https://www.linkedin.com/in/rnk89/)
+* **GitHub:** [github.com/RushiKumthekar](https://github.com/RushiKumthekar)
+
